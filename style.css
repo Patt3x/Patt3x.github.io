@@ -1,0 +1,93 @@
+p
+{
+	font-family: Times;
+	font-size: 1.1em;
+	color: #0A1F33;
+	margin-right: 40%;
+	margin-left: 5em;
+}
+
+body
+{
+	background-image: linear-gradient(white, #3399FF);
+}
+
+h1
+{
+	font-size: 3em;
+	margin-left: 1.9em;
+	margin-right: .5em;
+	border-bottom: .12em solid #0A1F33;
+	color: #0A1F33;
+}
+
+h3
+{
+	margin-left: 10em;
+	margin-right: 1em;
+	width: 6em;
+	text-align: right;
+	float: left;
+	color: #0A1F33;
+	
+}
+
+img 
+{
+	padding: 10px;
+	position: absolute;
+	width: 280px;
+	height: 400px;
+	margin-left: 70%;
+	border: .4em solid #0A1F33;
+	background-color: #eeeeee;
+	transform: rotate(-4deg);
+}
+
+
+div
+{
+	float: left;
+	color: #0A1F33;
+	
+	
+}
+
+li
+{
+	/*border-left: .2em solid gray;*/
+	margin-left: 1em;
+}
+
+h4
+{
+	margin-left: 2em;
+}
+
+#tint 
+{
+	color: #D6EBFF;
+	font-family: serif;
+	float: right;
+
+}
+
+#posi
+{
+	margin-top: 1.5em;
+	height: 5.3em;
+	border-left: .2em solid #D6EBFF;
+	position: absolute;
+}
+
+h5
+{
+	position: absolute;
+	margin-top: 8em;
+}
+
+a 
+{
+	color: #3399FF;
+	font-size: 0.9em;
+}
